@@ -4,11 +4,11 @@ This repository contains audit working papers prepared to simulate real-world au
 
 ## Files Included
 
-* **Revenue_Audit_Simulation.xlsx**: Sample-based vouching, cut-off testing, and tolerance analysis.
-* **Inventory_Audit_Simulation.xlsx**: Physical vs. book reconciliation with valuation checks.
-* **Receivables_Confirmation_Simulation.xlsx**: External confirmations and alternative procedures.
+* **REVENUE_Substantive_Testing_Simulation.xlsx**: Sample-based vouching, cut-off testing, and tolerance analysis.
+* **INVENTORY_Substantive_Testing_Simulation.xlsx**: Physical vs. book reconciliation with valuation checks.
+* **RECEIVABLES_Substantive_Testing_Simulation.xlsx**: External confirmations and alternative procedures.
 * **Bank_Reconciliation_Simulation.xlsx**: Identification of reconciling items and adjustments.
-* **Payables_Testing_Simulation.xlsx**: Completeness testing through external confirmations and identification of unrecorded liabilities.
+* **PAYABLES_Substantive_Testing_Simulation.xlsx**: Completeness testing through external confirmations and identification of unrecorded liabilities.
 
 ### Key Audit Concepts Demonstrated
 
