@@ -14,5 +14,6 @@ Assertion-based testing (existence, completeness, valuation, accuracy)
 Use of tolerances and variance analysis
 Documentation of observations and conclusions
 Handling of exceptions and audit adjustments
+Identification, evaluation, and proposed resolution of audit exceptions.
 
 These working papers reflect practical audit execution and documentation standards.
